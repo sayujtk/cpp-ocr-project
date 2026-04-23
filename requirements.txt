@@ -1,0 +1,6 @@
+scikit-learn
+scipy
+numpy
+python-dotenv
+azure-cognitiveservices-vision-computervision
+msrest
